@@ -1,6 +1,6 @@
 {
     "name": "gabrielpcruz/slim",
-    "description": "Skeleton slim framework 4 application (http + cli)",
+    "description": "A guide to your travels. Plan your trips and creating checkpoints.",
     "minimum-stability": "stable",
     "license": "proprietary",
     "authors": [
